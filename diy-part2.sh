@@ -29,3 +29,8 @@ git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-a
 #git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
 #git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 #rm -rf ../lean/luci-theme-argon
+
+#git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
+#VSSR
+#git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
+#git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
