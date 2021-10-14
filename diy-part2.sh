@@ -30,6 +30,12 @@ git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-a
 #git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 #rm -rf ../lean/luci-theme-argon
 
+#添加额外非必须软件包
+#git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+#git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
+#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+#git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
+
 #git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 #VSSR
 #git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
