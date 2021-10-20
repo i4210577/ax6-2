@@ -16,3 +16,26 @@ sed -i 's/10.10.10.1/192.168.1.1/g' package/base-files/files/bin/config_generate
 # modify wifi ssid 
 sed -i 's/OpenWrt_2.4G/OpenWrt_5G/g'  package/kernel/mac80211/files/lib/wifi/mac80211.sh
 sed -i '185s/OpenWrt_5G/OpenWrt_2.4G/' package/kernel/mac80211/files/lib/wifi/mac80211.sh
+
+#添加额外非必须软件包
+#git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+##git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
+#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+#git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
+#VSSR
+#git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
+#git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+
+#git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
+
+git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
+
+#git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
+#VSSR
+#git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
+#git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+
+#git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-iptvhelper
+#添加smartdns
+git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
+git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
