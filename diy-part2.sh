@@ -22,9 +22,6 @@ sed -i '185s/OpenWrt_5G/OpenWrt_2.4G/' package/kernel/mac80211/files/lib/wifi/ma
 ##git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
 #git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
-#VSSR
-#git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
-#git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 
 #git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
