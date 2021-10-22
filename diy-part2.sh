@@ -50,6 +50,6 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-a
 #git clone -b luci https://github.com/pexcn/openwrt-chinadns-ng.git package/luci-app-chinadns-ng
 
 # Add luci-theme-argon
-git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
-git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
+#git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
+#git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 #rm -rf ../lean/luci-theme-argon
