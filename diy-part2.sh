@@ -20,13 +20,13 @@ sed -i '185s/OpenWrt_5G/OpenWrt_2.4G/' package/kernel/mac80211/files/lib/wifi/ma
 #添加额外非必须软件包
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 #git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
-#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
-#git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
+git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
 #git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-iptvhelper
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
 
-#git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
+git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
 git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 
