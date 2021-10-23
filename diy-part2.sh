@@ -18,13 +18,13 @@ sed -i 's/OpenWrt_2.4G/OpenWrt_5G/g'  package/kernel/mac80211/files/lib/wifi/mac
 sed -i '185s/OpenWrt_5G/OpenWrt_2.4G/' package/kernel/mac80211/files/lib/wifi/mac80211.sh
 
 # themes添加（svn co 命令意思：指定版本如https://github）
-#git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
-#git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
-#git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
-#git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
-#git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/luci-theme-opentomato
+git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
+git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
+git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
+git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/luci-theme-opentomato
 #git clone https://github.com/Leo-Jo-My/luci-theme-argon-dark-mod.git package/luci-theme-argon-dark-mod
-#git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme-opentopd
+git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme-opentopd
 
 #添加额外非必须软件包
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
