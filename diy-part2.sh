@@ -34,6 +34,7 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
 #git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-iptvhelper
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
+git clone https://github.com/linkease/istore/tree/main/luci/luci-app-store.git package/luci-app-store
 
 #git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
