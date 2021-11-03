@@ -37,7 +37,7 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/linkease/istore.git package/istore
 git clone https://github.com/linkease/istore-ui.git package/istore-ui
 
-#git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
+git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
 git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 
