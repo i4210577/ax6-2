@@ -35,12 +35,12 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-iptvhelper
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
 git clone https://github.com/gdck/luci-app-socat.git package/luci-app-socat
-git clone https://github.com/gdck/luci-app-cupsd2.3.0.git package/luci-app-cupsd2.3.0
-git clone https://github.com/gdck/luci-app-unblockneteasemusic-mini.git package/luci-app-unblockneteasemusic-mini
-git clone https://github.com/gdck/luci-app-qos-gargoyle.git package/luci-app-qos-gargoyle
-git clone https://github.com/gdck/luci-app-qosv4.git package/luci-app-qosv4
-git clone https://github.com/gdck/luci-app-tn-netports.git package/luci-app-tn-netports
-git clone https://github.com/gdck/luci-app-tn-logview.git package/luci-app-tn-logview
+#git clone https://github.com/gdck/luci-app-cupsd2.3.0.git package/luci-app-cupsd2.3.0
+#git clone https://github.com/gdck/luci-app-unblockneteasemusic-mini.git package/luci-app-unblockneteasemusic-mini
+#git clone https://github.com/gdck/luci-app-qos-gargoyle.git package/luci-app-qos-gargoyle
+#git clone https://github.com/gdck/luci-app-qosv4.git package/luci-app-qosv4
+git clone https://github.com/tano-systems/luci-app-tn-netports.git package/luci-app-tn-netports
+git clone https://github.com/tano-systems/luci-app-tn-logview.git package/luci-app-tn-logview
 
 #git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
