@@ -28,7 +28,7 @@ git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme
 
 #添加额外非必须软件包
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
-#git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
+git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
@@ -46,7 +46,7 @@ git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dns
 #git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 #rm -rf ../lean/luci-theme-argon
 
-git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
+#git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 #VSSR
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
