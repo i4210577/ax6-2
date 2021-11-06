@@ -36,6 +36,8 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
 git clone https://github.com/linkease/istore.git package/istore
 git clone https://github.com/linkease/istore-ui.git package/istore-ui
+git clone https://github.com/shadowsocks/openwrt-feeds.git package/feeds
+git clone https://github.com/honwen/openwrt-dnsmasq-extra.git package/feeds/openwrt-dnsmasq-extra
 
 git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
