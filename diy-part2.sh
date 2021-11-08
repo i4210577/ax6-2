@@ -38,6 +38,7 @@ git clone https://github.com/linkease/istore.git package/istore
 git clone https://github.com/linkease/istore-ui.git package/istore-ui
 git clone https://github.com/shadowsocks/openwrt-feeds.git package/feeds
 git clone https://github.com/honwen/openwrt-dnsmasq-extra.git package/feeds/openwrt-dnsmasq-extra
+git clone https://github.com/tohojo/sqm-scripts package/sqm-scripts
 
 git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
