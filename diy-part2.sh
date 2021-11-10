@@ -38,7 +38,7 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/DevOpenWRT-Router/luci-app-cpulimit.git package/luci-app-cpulimit
 #git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
 
-git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
+#git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 
 # Add luci-theme-argon
@@ -52,6 +52,6 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 
 #添加smartdns
-git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
-git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
-git clone -b luci https://github.com/pexcn/openwrt-chinadns-ng.git package/luci-app-chinadns-ng
+#git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
+#git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
+#git clone -b luci https://github.com/pexcn/openwrt-chinadns-ng.git package/luci-app-chinadns-ng
