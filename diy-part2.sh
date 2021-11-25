@@ -50,7 +50,7 @@ git clone https://github.com/shadowsocks/openwrt-feeds.git package/libs
 git clone https://github.com/peter-tank/openwrt-minisign.git package/minisign
 
 #git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
-git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
+#git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 
 #git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 #VSSR
