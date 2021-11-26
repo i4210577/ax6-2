@@ -41,10 +41,10 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
 #git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-iptvhelper
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
-git clone https://github.com/linkease/istore.git package/istore
-git clone https://github.com/linkease/istore-ui.git package/istore-ui
-git clone https://github.com/shadowsocks/openwrt-feeds.git package/feeds
-git clone https://github.com/honwen/openwrt-dnsmasq-extra.git package/feeds/openwrt-dnsmasq-extra
+#git clone https://github.com/linkease/istore.git package/istore
+#git clone https://github.com/linkease/istore-ui.git package/istore-ui
+#git clone https://github.com/shadowsocks/openwrt-feeds.git package/feeds
+#git clone https://github.com/honwen/openwrt-dnsmasq-extra.git package/feeds/openwrt-dnsmasq-extra
 git clone https://github.com/peter-tank/luci-app-dnscrypt-proxy2.git package/luci-app-dnscrypt-proxy2
 git clone https://github.com/shadowsocks/openwrt-feeds.git package/libs
 git clone https://github.com/peter-tank/openwrt-minisign.git package/minisign
