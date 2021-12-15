@@ -11,7 +11,7 @@
 #
 
 # Modify default IP
-#sed -i 's/10.10.10.1/192.168.1.1/g' package/base-files/files/bin/config_generate
+sed -i 's/10.10.10.1/192.168.1.1/g' package/base-files/files/bin/config_generate
 #sed -i 's/$1$WplwC1t5$HBAtVXABp7XbvVjG4193B.:18753:0:99999:7:::/$1$ttZeRDG3$V0pEG8rex5imt2uWJp3gO\/:18875:0:99999:7:::/g' package/base-files/files/etc/shadow
 # modify wifi ssid 
 #sed -i 's/OpenWrt_2.4G/OpenWrt_5G/g'  package/kernel/mac80211/files/lib/wifi/mac80211.sh
@@ -45,9 +45,9 @@
 #git clone https://github.com/linkease/istore-ui.git package/istore-ui
 #git clone https://github.com/shadowsocks/openwrt-feeds.git package/feeds
 #git clone https://github.com/honwen/openwrt-dnsmasq-extra.git package/feeds/openwrt-dnsmasq-extra
-#git clone https://github.com/peter-tank/luci-app-dnscrypt-proxy2.git package/luci-app-dnscrypt-proxy2
-#git clone https://github.com/shadowsocks/openwrt-feeds.git package/libs
-#git clone https://github.com/peter-tank/openwrt-minisign.git package/minisign
+git clone https://github.com/peter-tank/luci-app-dnscrypt-proxy2.git package/luci-app-dnscrypt-proxy2
+git clone https://github.com/shadowsocks/openwrt-feeds.git package/libs
+git clone https://github.com/peter-tank/openwrt-minisign.git package/minisign
 
 #git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 #git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
