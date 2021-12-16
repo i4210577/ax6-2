@@ -32,6 +32,7 @@ env:
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: false
   TZ: Asia/Shanghai
+  USE_CACHEWRTBUILD: false
 
 jobs:
   build:
